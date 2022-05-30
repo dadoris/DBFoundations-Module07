@@ -1,7 +1,7 @@
-##### David Doris ######
+##### David Doris<br/>
 May  31, 2022<br/>
 Foundations of Databases and SQL Programming<br/>
-##### Assignment 07
+Assignment 07
 
 
 # Module 07: Functions
