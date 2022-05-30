@@ -34,7 +34,7 @@ https://github.com/dadoris/module07_functions
 ## Summary 
 This week dealt with Views, Functions, and Stored Procedures and continued posting coursework on GitHub and added creating a GitHub webpage to my deliverables.  
 
-
+  
 
 # Title
 ## Introduction
