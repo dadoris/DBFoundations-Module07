@@ -1,10 +1,8 @@
-### David Doris<br/>
-### May  31, 2022<br/>
-### Foundations of Databases and SQL Programming<br/>
-### Assignment 07<br/>
-<br/>
-<br/>
-<br/>
+David Doris<br/>
+May  31, 2022<br/>
+Foundations of Databases and SQL Programming<br/>
+Assignment 07<br/>
+
 # Module 07: Functions
 ## Introduction
 This week’s topic is Functions including scalar, table, and user defined functions (UDF).  In addition to posting to the GitHub repository as I did for module 06, I've  created this GitHub webpage for review.  This week's questions are: 
