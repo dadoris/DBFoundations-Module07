@@ -18,7 +18,7 @@ For example, if my requirements included a Check constraint, I would use a custo
 ### Differences between Scalar, Inline, and Multi-Statement Functions
 - A Scalar function returns a single value.
 - Inline and Multi-statement functions return tables, also known as recordsets:
-  - **Inline functions** are similar to **Views** because they “can only contain a single SELECT statement, and the columns in the SELECT statement implicitly define the columns of the returned table set of the function.” &nbsp;&nbsp;
+  - **Inline functions** are similar to **Views** because they “can only contain a single SELECT statement, and the columns in the SELECT statement implicitly define the columns of the returned table set of the function.” &nbsp;&nbsp;&nbsp;
   - **Multi-statement** functions are also known as table-valued functions and return the result of multiple statements.  These functions are essentially “**a stored procedure** that accepts arguments and returns a table recordset, defined as a table variable. The table value function can contain multiple statements and flow control logic, just like a regular stored procedure. The last statement of the procedure needs to be a RETURN statement, at which point the declared table variable is returned to the calling context.” 
 ##### Table value functions vs Inline functions, https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions/, SQLSUNDAY.COM. 
 In SQL Server 2019, The difference between single value and table functons is blurred because both can be inlined. 
