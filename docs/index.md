@@ -1,5 +1,5 @@
 ### David Doris
-May 31, 2022
+##### May 31, 2022
 Foundations of Databases and SQL Programming
 Assignment 07
 
