@@ -2,9 +2,9 @@
 ### May 31, 2022
 ### Foundations of Databases and SQL Programming
 ### Assignment 07
-
+#
 # Module 07: Functions
-
+#
 ## Introduction
 This week’s topic is Functions including scalar, table, and user defined functions. (UDF).  In addition to posting to the GitHub repository, I will create a GitHub webpage for review.  In addition, I will answer the following questions: 
 •	Explain when you would use a SQL UDF.
