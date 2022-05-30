@@ -28,8 +28,8 @@ In SQL Server 2019, The difference between single value and table functons is bl
 As the end of the course approaches, I’m pleased to have studied the topics in this module.  In the past, I’ve worked with basic SQL SELECT queries, but not with Views, Functions, or Stored Procedures.  I’ve worked with recordsets while programming in Visual Basic, and that’s given me some reference points.  But my coursework is the beginning, not the end, of the process and expect to explore these new concepts and tools well beyond June. 
 
 ### GitHub Link
-SQL script & writeup files: https://github.com/dadoris/module07_functions
-GitHub webpage: https://github.com/dadoris/module07_functions/blob/main/docs/index.md
+SQL script & writeup files: https://github.com/dadoris/module07_functions<br/>
+GitHub webpage: https://github.com/dadoris/module07_functions/blob/main/docs/index.md<br/>
 
 ## Summary 
 This week dealt with Functions, and presented further details about Views and Stored Procedures,  continued posting coursework on GitHub, and added creating a GitHub webpage to my deliverables.  
