@@ -37,7 +37,7 @@ This week dealt with Views, Functions, and Stored Procedures and continued posti
 
 ## my SQL Hero:
 
-![this is my sql hero:]  (https://github.com/dadoris/module07_functions/blob/main/docs/assets/pexels-public-domain-pictures-68136.jpg)
+![this is my sql hero:](docs/assets/pexels-public-domain-pictures-68136.jpg)
 
 # Title
 ## Introduction
