@@ -12,7 +12,6 @@ This week’s topic is Functions including scalar, table, and user defined funct
 I would use a User Defined Function: 
 * for calculations frequently repeated in my database or 
 * to implement capabilities not addressed by built-in functions.  
-
 For example, if my requirements included a Check constraint, I would use a custom scalar function to reference a column in another table because such a reference would not otherwise be possible as noted in the Module07Notes.docx file, page 18.
 ###
 ### Differences between Scalar, Inline, and Multi-Statement Functions
