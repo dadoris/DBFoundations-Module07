@@ -5,10 +5,10 @@ Assignment 07<br/>
 
 # Module 07: Functions
 ## Introduction
-This week’s topic is Functions including scalar, table, and user defined functions (UDF).  In addition to posting to the GitHub repository as I did for module 06, I've  created this GitHub webpage for review.  This week's questions are:<br/>
-* Explain when you would use a SQL UDF.<br/>
+This week’s topic is Functions including scalar, table, and user defined functions (UDF).  In addition to posting to the GitHub repository as I did for module 06, I've  created this GitHub webpage for review.  This week's questions are:
+- Explain when you would use a SQL UDF.<br/>
 - Explain are the differences between Scalar, Inline, and Multi-Statement Functions.<br/>
-<br/>
+
 ### When to use a SQL User Defined Function (UDF)
 I would use a User Defined Function: 
 - for calculations frequently repeated in my database or 
