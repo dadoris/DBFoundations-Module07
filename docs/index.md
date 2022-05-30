@@ -34,10 +34,13 @@ Scalar function inlining in SQL Server 2019, SQLSUNDAY.COM.
 As the end of the course approaches, I’m pleased to have studied the topics in this module.  In the past, I’ve worked with basic SQL SELECT queries, but not with Views, Functions, or Stored Procedures.  I’ve worked with recordsets while programming in Visual Basic, and that’s given me some reference points.  But my coursework is the beginning, not the end, of the process and expect to explore these new concepts and tools well beyond June. 
 ###
 ### GitHub Link
-https://github.com/dadoris/module07_functions
-@@
+SQL script & writeup files: https://github.com/dadoris/module07_functions
+GitHub webpage: https://github.com/dadoris/module07_functions/blob/main/docs/index.md
+
 ## Summary 
 This week dealt with Views, Functions, and Stored Procedures and continued posting coursework on GitHub and added creating a GitHub webpage to my deliverables.  
+
+## my SQL Hero:
 
   
 
