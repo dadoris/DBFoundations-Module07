@@ -11,8 +11,8 @@
 
 ## Introduction
 This week’s topic is Functions including scalar, table, and user defined functions. (UDF).  In addition to posting to the GitHub repository, I will create a GitHub webpage for review.  In addition, I will answer the following questions: 
--	  Explain when you would use a SQL UDF.
--     Explain are the differences between Scalar, Inline, and Multi-Statement Functions.
+-Explain when you would use a SQL UDF.
+-Explain are the differences between Scalar, Inline, and Multi-Statement Functions.
 ###
 ### When to use a SQL User Defined Function (UDF)
 I would use a User Defined Function: 
