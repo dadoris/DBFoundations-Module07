@@ -5,7 +5,7 @@ Assignment 07<br/>
 
 # Module 07: Functions
 ## Introduction
-This week’s topic is Functions including scalar, table, and user defined functions (UDF).  In addition to posting to the GitHub repository as I did for module 06, I've  created this GitHub webpage for review.  This week's questions are:
+This week’s topic is Functions including scalar, table, and user defined functions (UDF).  In addition to posting my SQL script and writeup files to the GitHub repository as I did for module 06, I've created this GitHub webpage for review.  This week's questions are:
 - Explain when you would use a SQL UDF.<br/>
 - Explain are the differences between Scalar, Inline, and Multi-Statement Functions.<br/>
 
@@ -34,5 +34,5 @@ GitHub webpage: https://github.com/dadoris/module07_functions/blob/main/docs/ind
 ## Summary 
 This week dealt with Functions, and presented further details about Views and Stored Procedures,  continued posting coursework on GitHub, and added creating a GitHub webpage to my deliverables.  
 
-## my SQL Hero:
+## the source of my best SQL insights...
 ![this is my sql hero:](pexels-public-domain-pictures-68136.jpg)
