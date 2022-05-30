@@ -2,24 +2,16 @@
 ##### May 31, 2022
 ##### Foundations of Databases and SQL Programming
 ##### Assignment 07
-
 # Module 07: Functions
-
-
-
-
-
 ## Introduction
-This week’s topic is Functions including scalar, table, and user defined functions. (UDF).  In addition to posting to the GitHub repository, I will create a GitHub webpage for review.  In addition, I will answer the following questions: 
+This week’s topic is Functions including scalar, table, and user defined functions (UDF).  In addition to posting to the GitHub repository, I will create a GitHub webpage for review.  In addition, I will answer the following questions: 
 -Explain when you would use a SQL UDF.
 -Explain are the differences between Scalar, Inline, and Multi-Statement Functions.
 ###
 ### When to use a SQL User Defined Function (UDF)
 I would use a User Defined Function: 
-
-*•	for calculations frequently repeated in my database or 
-
-*•	to implement capabilities not addressed by built-in functions.  
+* for calculations frequently repeated in my database or 
+* to implement capabilities not addressed by built-in functions.  
 
 For example, if my requirements included a Check constraint, I would use a custom scalar function to reference a column in another table because such a reference would not otherwise be possible as noted in the Module07Notes.docx file, page 18.
 ###
